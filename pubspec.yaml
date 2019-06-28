@@ -1,0 +1,17 @@
+name: flutter_ionicons
+description: A premium icon font from ionic-team.
+version: 4.5.10-0
+homepage: https://ionicons.com/
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+ fonts:
+   - family: Ionicons
+     fonts:
+       - asset: fonts/ionicons.ttf
